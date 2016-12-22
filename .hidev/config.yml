@@ -1,0 +1,10 @@
+package:
+    type:           project
+    name:           yii2-asset-less-space
+    title:          Yii2 asset for Less Space
+    keywords:       yii2, asset, less space, css, responsive
+    headline:       Yii2 Less Space
+    description:    |
+        [Less Space](http://aslanbakan.com/en/blog/less-space-responsive-css-margin-and-padding-helper-classes/)
+        is responsive CSS margin and padding helper classes.
+        No need to use media queries anymore with SASS and LESS.
