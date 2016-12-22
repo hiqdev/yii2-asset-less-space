@@ -51,7 +51,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\yii2\\asset\\less\\space\\": "src"
+            "hiqdev\\assets\\lessspace\\": "src"
         }
     }
 }
