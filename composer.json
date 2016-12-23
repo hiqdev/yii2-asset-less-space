@@ -44,10 +44,12 @@
             "homepage": "http://hiqdev.com/"
         }
     ],
+    "require": {
+        "bower-asset/less-space": "~1.1.1"
+    },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0 || dev-master",
         "hiqdev/hidev-hiqdev": "<2.0 || dev-master",
-        "bower-asset/less-space": "~1.1.1"
     },
     "autoload": {
         "psr-4": {
