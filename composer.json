@@ -49,7 +49,7 @@
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0 || dev-master",
-        "hiqdev/hidev-hiqdev": "<2.0 || dev-master",
+        "hiqdev/hidev-hiqdev": "<2.0 || dev-master"
     },
     "autoload": {
         "psr-4": {
